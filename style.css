@@ -1,5 +1,10 @@
 body{
+  
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.row2{
+    width: 100%;
 }
 .div1{
     background-color: #333333;
@@ -13,7 +18,10 @@ body{
 
 nav{
     background-color: #666666;
+    
 }
+
+
 
 .navbar1{
     padding-left: 0px;
@@ -21,11 +29,12 @@ nav{
 
 .div2{
     background-color: #e5e5e5;
-    height: 780px;
+    
+    
 }
 
 .div3{
-    height: 780px;
+    
     padding: 35px 25px
 }
 
@@ -41,6 +50,9 @@ nav{
     background-color: #333333;
     height: 40px;
     text-align: center;
+    
+
+    
 }
 
 .row1{
